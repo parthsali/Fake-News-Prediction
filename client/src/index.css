@@ -1,0 +1,18 @@
+:root {
+	--primary-background: #414246;
+	--light-secondary-background: #ebebeb;
+	--dark-secondary-background: #131313;
+	--light-primary-text-color: #131313;
+	--dark-primary-text-color: #ebebeb;
+	--dark-btn-background-color: #d1ff43;
+	--light-btn-background-color: #131313;
+	--light-btn-text-color: #ebebeb;
+	--dark-btn-text-color: #131313;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Nunito", sans-serif;
+	color: #131313;
+}

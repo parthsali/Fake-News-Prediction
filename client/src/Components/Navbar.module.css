@@ -1,0 +1,12 @@
+.nav {
+	width: 100vw;
+	height: 10vh;
+
+	display: flex;
+	justify-self: start;
+	align-items: center;
+}
+
+.logo {
+	margin-left: 50px;
+}
