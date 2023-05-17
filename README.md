@@ -5,5 +5,7 @@ Clone the repository using the following command <br>
 
 <br>
 Start frontend server <br>
-`cd client`
+```js
+cd client
+```
 
