@@ -7,7 +7,7 @@ git clone https://github.com/parthsali/Fake-News-Prediction.git
 ```
 
 <br>
-Frontend <br>
+Frontend Server<br>
 
 ```
 cd client
@@ -16,9 +16,9 @@ npm run dev
 ```
 
 <br>
-Backend <br>
+Backend Server <br>
 
 ```
-cd server
+cd Server
 python app.py
 ```
